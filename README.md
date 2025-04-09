@@ -3,7 +3,7 @@
 #### [Video Reference](https://drive.google.com/drive/folders/10DRZ-R6Pzoqtkhf5h944Bfvv7DAGDkIs?usp=sharing)
 
 
-# Block Desgin
+# Block Design
 
 <img title="" src="pictures/system_eth.jpg" alt="" width="1000">
 
