@@ -5,7 +5,7 @@
 
 # Block Desgin
 
-<img title="" src="pictures/system_eth.jpg" alt="" width="800">
+<img title="" src="pictures/system_eth.jpg" alt="" width="1000">
 
 This tutorial describes how to do a HW design of [MicroBlaze Soft Processor](https://www.xilinx.com/products/design-tools/microblaze.html) using DDR3 RAM on the [Digilent Arty A7](https://digilent.com/reference/programmable-logic/arty-a7/start) FPGA development board in Vivado 2023.1 or Vivado 2024.1.
 
